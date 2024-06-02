@@ -5,12 +5,12 @@ Visit the article post on My Github Pages Here -> [The Perfect MacMini Hackintos
 
 ## My Hacmini with Sonoma 14.5
 <hr>
-![hackmini]([/assets/img/Post/The-Perfect-MacMini-Hackintosh/Screenshot%202024-06-02%20at%2016.52.30.png](https://caturmahdialfurqon.github.io/assets/img/Post/The-Perfect-MacMini-Hackintosh/Screenshot%202024-06-02%20at%2016.52.30.png) <br>
-![hackmini]([/assets/img/Post/The-Perfect-MacMini-Hackintosh/Screenshot%202024-06-02%20at%2016.59.33.png](https://caturmahdialfurqon.github.io/assets/img/Post/The-Perfect-MacMini-Hackintosh/Screenshot%202024-06-02%20at%2016.59.33.png)
+![hackmini](https://caturmahdialfurqon.github.io/assets/img/Post/The-Perfect-MacMini-Hackintosh/Screenshot%202024-06-02%20at%2016.52.30.png) <br>
+![hackmini](https://caturmahdialfurqon.github.io/assets/img/Post/The-Perfect-MacMini-Hackintosh/Screenshot%202024-06-02%20at%2016.59.33.png)
 <br>
 <span style="color: #FF0000 !important;">System info and About This Hack</span>
 
-![MyHack]([/assets/img/Post/The-Perfect-MacMini-Hackintosh/Screenshot%202024-06-02%20at%2019.00.21.png](https://caturmahdialfurqon.github.io/assets/img/Post/The-Perfect-MacMini-Hackintosh/Screenshot%202024-06-02%20at%2019.00.21.png)
+![MyHack](https://caturmahdialfurqon.github.io/assets/img/Post/The-Perfect-MacMini-Hackintosh/Screenshot%202024-06-02%20at%2019.00.21.png)
 > Click the image for `full view`
 <hr>
 <br>
