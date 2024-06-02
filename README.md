@@ -3,7 +3,7 @@ This hackintosh is perfect for the `HP Elitdesk 800 g4 DM 35W`, exactly as state
 
 Visit the article post on My Github Pages Here -> [The Perfect MacMini Hackintosh](https://caturmahdialfurqon.github.io/posts/The-perfect-macmini-HACKINTOSH/)
 
-## My Hacmini with Sonoma 14.5
+## My Hackmini with Sonoma 14.5
 <hr>
 
 ![hackmini](https://caturmahdialfurqon.github.io/assets/img/Post/The-Perfect-MacMini-Hackintosh/Screenshot%202024-06-02%20at%2016.52.30.png)
