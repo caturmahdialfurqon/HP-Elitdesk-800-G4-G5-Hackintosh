@@ -1,5 +1,5 @@
 # HP-Elitdesk-800-G4-G5-Hackintosh
-This hackintosh is perfect for the `HP Elitdesk 800 g4 DM 35W`, exactly as stated. It can also be used with other Serries, such as the 800 g1, g2, g5, and SFF models with `CoffeeLake (CFL)` and `CoffeeLake Refresh` (CFLR), using the `MacMini 2018` SMBIOS.
+As mentioned, this hackintosh is ideal for the HP Elitdesk 800 g4 DM 35W. Using the MacMini 2018 SMBIOS, it may also be utilized with various Serries, including the 800 g1, g2, g5, and SFF models with CoffeeLake (CFL) and CoffeeLake Refresh (CFLR).
 
 Visit the article post on My Github Pages Here -> [The Perfect MacMini Hackintosh](https://caturmahdialfurqon.github.io/posts/The-perfect-macmini-HACKINTOSH/)
 
