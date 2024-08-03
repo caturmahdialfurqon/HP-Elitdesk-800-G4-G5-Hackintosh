@@ -5,8 +5,7 @@ Visit the article post on My Github Pages Here -> [The Perfect MacMini Hackintos
 
 ## My Hackmini with Sonoma 14.5
 <hr>
-![hackmini](https://caturmahdialfurqon.github.io/assets/img/Post/The-Perfect-MacMini-Hackintosh/Screenshot%202024-06-02%20at%2016.59.33.png)
-
+<img src="/imgs/Screenshot 2024-08-03 at 07.41.49.png" width=600>
 <br>
 
 ## Update Sonoma 14.6
