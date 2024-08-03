@@ -5,13 +5,15 @@ Visit the article post on My Github Pages Here -> [The Perfect MacMini Hackintos
 
 ## My Hackmini with Sonoma 14.5
 <hr>
-
-![hackmini](https://caturmahdialfurqon.github.io/assets/img/Post/The-Perfect-MacMini-Hackintosh/Screenshot%202024-06-02%20at%2016.52.30.png)
 ![hackmini](https://caturmahdialfurqon.github.io/assets/img/Post/The-Perfect-MacMini-Hackintosh/Screenshot%202024-06-02%20at%2016.59.33.png)
 
-<span style="color: #FF0000;">System info and About This Hack</span>
-
-![MyHack](https://caturmahdialfurqon.github.io/assets/img/Post/The-Perfect-MacMini-Hackintosh/Screenshot%202024-06-02%20at%2019.00.21.png)
-> Click the image for `full view`
-<hr>
 <br>
+
+## Update Sonoma 14.6
+
+- Smooth OTA update
+- If you get notif "fails bla bla bla"
+  try to disable SBM `Secure Boot Model`
+  if update successfully, you can change SBM to J174 or default.
+
+<img src="/imgs/Screenshot 2024-08-03 at 07.27.01.png" width=600>
