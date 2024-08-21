@@ -16,3 +16,7 @@ Visit the article post on My Github Pages Here -> [The Perfect MacMini Hackintos
   if update successfully, you can change SBM to J174 or default.
 
 <img src="/imgs/Screenshot 2024-08-03 at 07.27.01.png" width=600>
+
+## Update OC 1.0.1 EFI R001
+
+<img src="/imgs/Screenshot 2024-08-21 at 18.06.31.png" width=600>
