@@ -20,3 +20,12 @@ Visit the article post on My Github Pages Here -> [The Perfect MacMini Hackintos
 ## Update OC 1.0.1 EFI R001
 
 <img src="/imgs/Screenshot 2024-08-21 at 18.06.31.png" width=600>
+
+## Update Sonoma 14.6.1
+
+- Smooth Update
+- SBM = Disabled
+  
+<img src="/imgs/Screenshot 2024-09-06 at 13.08.58.png" width=600>
+
+<img src="/imgs/Screenshot 2024-09-06 at 13.49.59.png" width=600>
