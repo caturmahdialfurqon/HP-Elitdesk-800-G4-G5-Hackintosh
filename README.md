@@ -29,3 +29,22 @@ Visit the article post on My Github Pages Here -> [The Perfect MacMini Hackintos
 <img src="/imgs/Screenshot 2024-09-06 at 13.08.58.png" width=600>
 
 <img src="/imgs/Screenshot 2024-09-06 at 13.49.59.png" width=600>
+
+## Update available Sonoma 14.7 and Upgradeable to Sequoia 15.0
+
+<img src="/imgs/Screenshot 2024-09-18 at 02.14.22.png" width=600>
+
+## Update Sonoma 14.7
+
+- Sonoma 14.7 upgrade applied without any issues.  This hack is working perfectly.
+- SBM Disabled
+
+## Sequoia 15.0
+
+- Ethernet connectivity issue (Ethernet connection problem only on Remote Desktop)
+  - Try to de-activate and then re-activate Ethernet in System Settings
+  - Unplugging the RJ-45 connector and then plugging it back in also works
+  - I didn't encounter any Ethernet problems with other applications
+  - Wifi,Bluetooth OK
+    
+- I'm staying with Sonoma 14.7 (where the Ethernet problem does not occur on Remote Desktop)
