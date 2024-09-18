@@ -38,6 +38,8 @@ Visit the article post on My Github Pages Here -> [The Perfect MacMini Hackintos
 
 - Sonoma 14.7 upgrade applied without any issues.  This hack is working perfectly.
 - SBM Disabled
+  
+<img src="/imgs/Screenshot 2024-09-18 at 21.42.14.png" width=600> 
 
 ## Sequoia 15.0
 
