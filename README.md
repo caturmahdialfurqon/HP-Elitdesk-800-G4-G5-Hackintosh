@@ -5,7 +5,7 @@ This hackintosh configuration is designed to bring the best of both worlds: the 
 
 Specifically optimized for HP EliteDesk 800 G4 and G5 DM 35W/65W models, this setup can also be adapted to various Series 800 G4, G5, and SFF models with CoffeeLake (CFL) and CoffeeLake Refresh (CFLR) processors.
 
-To get started, check out my detailed guide on GitHub Pages: -> [The Perfect MacMini Hackintosh](https://caturmahdialfurqon.github.io/posts/The-perfect-macmini-HACKINTOSH/)
+To get started, check out my detailed guide on GitHub Pages: -> [The Perfect MacMini Hackintosh](https://cmalf.github.io/posts/The-perfect-macmini-HACKINTOSH/)
 
 ## 📝 My Hackmini with Sonoma 14.5
 <hr>
