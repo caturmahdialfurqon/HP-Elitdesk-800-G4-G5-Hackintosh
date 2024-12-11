@@ -58,3 +58,24 @@ To get started, check out my detailed guide on GitHub Pages: -> [The Perfect Mac
 ## ❗✎ᝰ. For Now Onwards
 
 Updates will no longer be in readme.md, and will be placed in the [Releases](https://github.com/cmalf/HP-EliteDesk-800-G4-G5-Hackintosh/releases) Section.
+
+<div align="left">
+  
+## © Credits 
+[thk]:https://img.shields.io/badge/Thanks%20to:-orange
+[ghrp]:https://github.com/cmalf/HP-EliteDesk-800-G4-G5-Hackintosh/
+[dvd]:https://img.shields.io/badge/deeveedee-white
+[phm]:https://img.shields.io/badge/The%20Perfect%20MacMini8,1%20Hackintosh-blue
+[pp]:https://img.shields.io/badge/Profile-cyan
+[phmlk]:https://www.insanelymac.com/forum/topic/343937-guide-catalina-big-sur-monterey-ventura-sonoma-sequoia-on-hp-elitedesk-800-g4g5-mini-the-perfect-macmini81-hackintosh/
+[dvdp]:https://www.insanelymac.com/uploads/monthly_2023_10/old-lady-small.thumb.jpg.a626f536e4dd345141fb85959e3d0ec0.jpg
+[dvdlk]:https://www.insanelymac.com/forum/profile/1099364-deeveedee/
+[![ghrp][thk]][ghrp]<br>
+![dvdp]<br> [![dvdlk][dvd]][dvdlk] <br> 
+* Provided a guide for installing macOS on the HP EliteDesk 800 G4 / G5 Mini, <br> which is based on [![phmlk][phm]][phmlk] <br>
+* See deeveedee's [![dvdlk][pp]][dvdlk] on insanelymac for details.
+
+
+
+
+
